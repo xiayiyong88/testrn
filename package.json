@@ -1,0 +1,20 @@
+{
+  "name": "react-native-tftest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./index.js",
+  "author": {
+    "name": "xiayiyong"
+  },
+  "contributors": {
+    "name": ""
+  },
+  "homepage": "https://github.com/xiayiyong88/testrn/",
+  "keywords": [
+    "react",
+    "react-native"
+  ],
+  "license": ""
+}
+
+
